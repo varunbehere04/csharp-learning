@@ -1,0 +1,15 @@
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/bin/Debug/net8.0/01_Hello-World
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/bin/Debug/net8.0/01_Hello-World.deps.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/bin/Debug/net8.0/01_Hello-World.runtimeconfig.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/bin/Debug/net8.0/01_Hello-World.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/bin/Debug/net8.0/01_Hello-World.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.AssemblyInfoInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.AssemblyInfo.cs
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.csproj.CoreCompileInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.sourcelink.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/refint/01_Hello-World.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/01_Hello-World.genruntimeconfig.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/01_Hello-World/obj/Debug/net8.0/ref/01_Hello-World.dll
