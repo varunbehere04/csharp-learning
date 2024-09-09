@@ -1,0 +1,15 @@
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/bin/Debug/net8.0/05_String-Manipulation
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/bin/Debug/net8.0/05_String-Manipulation.deps.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/bin/Debug/net8.0/05_String-Manipulation.runtimeconfig.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/bin/Debug/net8.0/05_String-Manipulation.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/bin/Debug/net8.0/05_String-Manipulation.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.AssemblyInfoInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.AssemblyInfo.cs
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.csproj.CoreCompileInputs.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.sourcelink.json
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/refint/05_String-Manipulation.dll
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.pdb
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/05_String-Manipulation.genruntimeconfig.cache
+/Users/varun.behere/Documents/GitHub/csharp-learning/05_String-Manipulation/obj/Debug/net8.0/ref/05_String-Manipulation.dll
